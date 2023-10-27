@@ -1,0 +1,86 @@
+.btn-light{
+    border: 1px solid lightgrey !important; 
+    border-radius: 50px !important;
+    padding: 8px 20px 8px 20px !important;
+}
+
+.btn-primary{
+    border-radius: 50px !important; 
+    background-color: #F2B950 !important; 
+    border: 1px solid #F2B950 !important;
+    margin-left: 20px !important;
+    padding: 8px 20px 8px 20px !important;
+    margin-right: 50px;
+}
+
+.navbar-brand img{
+    height: 80px;
+    margin-right: 50px;
+    margin-left: 50px;
+
+}
+
+.nav-item{
+    margin-right: 20px;
+}
+
+.jumbotron {
+    display: flex !important;
+    align-items: center !important;
+    margin-top: 150px;
+  }
+  
+  .jumbotron-content {
+    flex: 1 !important; 
+    padding: 20px !important; 
+    margin-left: 200px;
+  }
+  
+  .jumbotron-image {
+    flex: 1 !important;
+    text-align: right !important;
+  }
+  
+  .jumbotron-image img {
+    max-width: 100% !important;
+    width: 565px;
+    height: 557px;
+    margin-right: 200px;
+  }
+  
+  .display-4{
+    font-weight: bold !important;
+    width: 600px;
+    font-size: 100px !important;
+  }
+
+  .hero-text{
+    margin-top: 100px;
+    width: 600px !important;
+  }
+
+ .hero-demo-btn{
+    border-radius: 50px !important; 
+    background-color: #F2B950 !important; 
+    border: 1px solid #F2B950 !important;
+    padding: 10px 20px 10px 20px !important;
+    text-decoration: none !important;
+    color: white !important;
+    margin-top: 100px;
+  }
+
+  .hero-sbtn{
+    border: 1px solid lightgrey !important; 
+    border-radius: 50px !important;
+    padding: 8px 20px 8px 20px !important;
+    margin-top: 100px;
+  }
+
+.container{
+    margin-top: 100px;
+    text-align: center;
+}
+
+.section2-text{
+    margin-bottom: 50px !important;
+}
